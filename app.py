@@ -1,4 +1,4 @@
-pythonimport easyocr
+import easyocr
 import json
 import base64
 import io
